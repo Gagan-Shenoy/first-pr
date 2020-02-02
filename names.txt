@@ -2,6 +2,7 @@ List of names:
 
 1. Rohit Sanjay
 2. Pratyush Kerhalkar
+<<<<<<< HEAD
 3. Subhojit Ghorai
 4. Shashi kumar
 5. Aradhana Alok
@@ -18,3 +19,4 @@ List of names:
 16. Subhadeep Bhatta
 17. Anoop Chand Yarlagadda
 18. Muhammed sahad
+19. Prachi Mantri
