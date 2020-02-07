@@ -3,7 +3,7 @@
 ## Follow the steps below
 
 1. Fork this repository
-2. Clone your forked repository to your local system by running `git clone https://github.com/<username>/first-pr.git`  
+2. **Clone your forked repository** to your local system by running `git clone https://github.com/<username>/first-pr.git`  
 4. `cd first-pr`
 5. Add your name to `names.txt` in a new line
 6. `git commit -am “added <your_name>”`
